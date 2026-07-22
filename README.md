@@ -1,6 +1,14 @@
 # Welcome to Vimal Tech Studio 🚀
-
-We specialize in engineering robust, enterprise-grade Java backends, Spring Boot microservices, and secure cloud integrations. 
+<p align="center">
+  <img src="https://github.com/vimaltech-dev/vimaltech-dev/blob/main/images/github-profile-banner.png" alt=”my banner” />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=vimaltech-dev&label=Profile%20views&color=0e75b6&style=flat" alt="vimaltech-dev" />
+  <br>
+  <a href="https://x.com/vimaltech_dev" target="blank">
+	  <img src="https://img.shields.io/twitter/follow/vimaltech_dev?logo=twitter&style=for-the-badge" alt="Vimal_Tech" />
+  </a>
+</p>
+We specialize in engineering robust, enterprise-grade Java backends, Spring Boot, Microservices, and secure cloud integrations. 
 
 ---
 
